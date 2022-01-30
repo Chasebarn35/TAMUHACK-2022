@@ -41,3 +41,6 @@ attempt to match that social media with their face, if possible
 For driving (that reference point). We will get data like whether or not you are slamming your brakes, how long are your average trips (are you driving more), are you taking off really fast, etc. 
 
 
+
+
+pip3 install --user --upgrade git+https://github.com/twintproject/twint.git@origin/master#egg=twint
